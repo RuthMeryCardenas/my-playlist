@@ -1,6 +1,7 @@
 {
   "name": "my-playlist",
   "version": "0.1.0",
+  "homepage" : "https://ruthmerycardenas.github.io/my-playlist/",
   "private": true,
   "dependencies": {
     "react": "^16.0.0",
